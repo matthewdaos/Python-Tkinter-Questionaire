@@ -1,0 +1,17 @@
+{
+      "This compound exercise focuses on bringing the bar to your chest and pushing it back up: ":"Bench Press",
+      "This exercise focuses on pulling the bar to your chest and feeling the contraction in your back: ":"Lat Pulldown",
+      "What is the muscle name for shoulders? ":"Deltoids",
+      "This bicep exercise works on both the brachialis and forearms: ":"Hammer Curls",
+      "What is the muscle name for chest? ":"Pectorals",
+      "What is the muscle name for legs, specifically quads? ":"Quadriceps",
+      "This compound exercise focuses on using your entire body to lift the bar from the ground: ":"Deadlifts",
+      "This exercise involves grabbing two bars and using your bodyweight to move up and down? ":"Dips",
+      "What makes up the majority of the arm? ":"Triceps",
+      "This gym equipment helps you lift heavy equipment by strapping onto it: ":"Lifting Straps",
+      "This type of day in a push, pull, legs routine consists of working on chest, shoulders, and triceps: ":"Push",
+      "This type of day in a push, pull, legs routine consists of working on back and biceps: ":"Pull",
+      "This type of day in a push, pull, legs routine consists of wokring on your lower body: ":"Legs",
+      "This supplement helps suck water from your body to your muscles, improving strength and recovery: ":"Creatine",
+      "What kind of training focuses on developing your muscles and is in between with getting better for strength, endurance, and asthetics: ":"Hypertrophy"
+  }

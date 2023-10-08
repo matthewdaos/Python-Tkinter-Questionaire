@@ -1,0 +1,17 @@
+{
+	"How many players are allowed on the court on each team in volleyball? (Write number as a word) ":"Six",
+	"Which position specializes in receiving spikes, saving the ball, and passing the ball to the middle blocker to set: ":"Libero",
+	"This hit allows you to pass the ball to the person setting by using your forearms?: ":"Bump",
+	"This hit uses the fingertips to help with spiking the ball: ":"Set",
+	"This is a vicious hit that can lead to a point: ":"Spike",
+	"This position is responsible for getting the ball to the other side of the net: ":"Setter",
+	"What is it called when the ball doesn't go over the net due to the opposing side putting their hands on top of the net? ":"Block",
+	"What is it called when you receive a low hit ball? ":"Dig",
+	"Which spike doesn't require power, but does its job of getting over the net by tapping on the ball? ":"Dink",
+	"What is the term of a serve that the opposing team couldn't receive? ":"Ace",
+        "Are you allowed to touch the net by all means? ": "No",
+        "How many hits do you have on each side in order to hit it over the net (Write number as a word) ":"Three",
+        "Are you allowed to hit the ball twice in a row? ":"No",
+	"Is a kick as a hit allowed? ":"Yes",
+	"Is there a postion in volleyball called the server? ":"No"
+}
